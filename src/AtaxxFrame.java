@@ -14,7 +14,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Date;
 import java.io.*;
-
+//git test
 public class AtaxxFrame extends JFrame{
 	// 현재 커서의 좌표값
 	static int idxX = 0;
